@@ -26,3 +26,10 @@ font-size: 20px
 .jumbotron {
   color: blue
 }
+footer {
+    clear: both;
+    height: 200px;
+    margin-top: -200px;
+    align-items: center;
+    display: flex;
+}
