@@ -17,9 +17,6 @@ ul {
 .panel-title {
   font-size: 20px
 }
-img {
-float: left;
-}
 .nav-item {
 font-size: 20px
 }
@@ -32,4 +29,10 @@ footer {
     margin-top: -200px;
     align-items: center;
     display: flex;
+}
+.col-md-3 {
+text-align: left;
+}
+img {
+  float: left;
 }
