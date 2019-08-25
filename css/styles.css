@@ -11,7 +11,7 @@ h2 {
 h3 {
   text-align: center;
 }
-ul{
+ul {
   font-size: 20px
 }
 .panel-title {
@@ -19,4 +19,10 @@ ul{
 }
 img {
 float: right;
+}
+.nav-item {
+font-size: 20px
+}
+.jumbotron {
+  color: blue
 }
